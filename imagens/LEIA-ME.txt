@@ -1,0 +1,22 @@
+COMO TROCAR AS IMAGENS (sem mexer no codigo)
+
+Basta colocar a foto na pasta indicada, com o MESMO NOME do arquivo, e substituir o arquivo antigo.
+Formato: .jpg (proporcao 4:3, ex.: 1200x900, funciona melhor).
+
+IMAGENS ILUSTRATIVAS (desenhos de demonstracao - troque por fotos reais):
+  imagens/toalhas/ (todas, exceto royal que e foto real: cores simuladas a partir da foto da toalha azul royal)
+  imagens/cobre-manchas/ (todas, simuladas a partir de uma foto de toalha branca com cobre-manchas: branca, bege, rosa, lavanda, amarela, vermelha, marsala,
+      royal, marinho, bandeira, musgo .jpg)
+  imagens/produtos/cobre-manchas.jpg
+  (as ilustracoes usam o modelo de mesa plastica branca enviado pela JF)
+
+FOTOS REAIS JA USADAS (podem ser trocadas por outras melhores):
+  imagens/toalhas/: branca, vermelha, marsala, royal, marinho, bandeira, musgo
+  imagens/produtos/: mesas (foto da mesa plastica branca), cadeiras, toalhas
+  imagens/banner.jpg (fundo do topo)
+  imagens/galeria/foto1.jpg ... foto8.jpg
+  imagens/logo.png  |  imagens/videos/video1.mp4, video2.mp4 (+ _capa.jpg)
+
+Observacao: a lista de cores de cobre-manchas ainda nao foi confirmada pela JF Locacoes.
+Os textos "Imagem ilustrativa" aparecem abaixo de cada foto de cor; apague-os no index.html
+quando todas as fotos forem reais.
